@@ -8,8 +8,8 @@ https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1 tvg-id="happytv" tvg-name="happytv" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Happy TV
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/QVhFTrfHOFTsZo6c3O_gcWXhJlAuGzAu2RiuR5LI5IJe9K5dUPlwEJYlKIySJ6Dpcra5MPpDqHvzwJ2JpJ-4BVVIwErXA1cIeOj7KNq8rvSSW1udUCzdyivrdmHFpNkr_Oknd4ZW7WBkxNLnZKzjVuUJZqBPYwXvwmcDLRDQlmY/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="pinkbh" tvg-name="pinkbh" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Pink BH
-https://kool.to/play/2333021344/index.m3u8
-
 #EXTINF:-1 tvg-id="pink" tvg-name="pink" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Pink
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ddfTQTUJrgryiyiu09OEYL9dubIGhzJl-DYTKauiF2FAh53U-Huh9aONOzWBmOZbkGDpP6-DMftUMXo4wuE43gamLPLwBClCmKvmeINMl4IdQaPT9QpweKS-L6G1_G9uw5aXI8dxqz6gZIb0ytoC3EjjIx9T1W0aN-Zh7h0srDg/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="rts1" tvg-name="rts1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", RTS 1
+http://69.64.57.208/rts1/playlist.m3u8
