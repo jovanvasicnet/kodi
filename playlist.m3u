@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="happy" tvg-name="Happy TV" tvg-logo="https://example.com/happy-logo.png" group-title="Serbia", Happy TV
+#EXTINF:-1 tvg-id="happy" tvg-name="Happy TV" tvg-logo="https://example.com/happy-logo.png" group-title="Serbia", BN
 https://rtvbn.tv:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-id="bhrt" tvg-name="BHRT" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", RTS 1
+#EXTINF:-1 tvg-id="bhrt" tvg-name="BHRT" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", BHRT
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
