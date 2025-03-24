@@ -13,3 +13,7 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 
 #EXTINF:-1 tvg-id="Pink.rs" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined",Pink
 https://live.rednet.rs/providus/pink1.m3u8
+
+#EXTINF:-1 tvg-id="HappyTV65.th" tvg-logo="https://i.imgur.com/9kb7kPI.png" group-title="Undefined",Happy TV 65 (576p)
+https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
+
