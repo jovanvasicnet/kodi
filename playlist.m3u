@@ -5,6 +5,9 @@ https://rtvbn.tv:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="bhrt" tvg-name="BHRT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", BHRT
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 
+#EXTINF:-1 tvg-id="b1" tvg-name="B1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B1_TV_logo.svg/2560px-B1_TV_logo.svg.png" group-title="Serbia", B1
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+
 #EXTINF:-1 tvg-id="happytv" tvg-name="happytv" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Happy TV
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/QVhFTrfHOFTsZo6c3O_gcWXhJlAuGzAu2RiuR5LI5IJe9K5dUPlwEJYlKIySJ6Dpcra5MPpDqHvzwJ2JpJ-4BVVIwErXA1cIeOj7KNq8rvSSW1udUCzdyivrdmHFpNkr_Oknd4ZW7WBkxNLnZKzjVuUJZqBPYwXvwmcDLRDQlmY/hls/index.m3u8
 
