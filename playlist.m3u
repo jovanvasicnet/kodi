@@ -11,8 +11,23 @@ https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/QVhFTrfHOFTsZo6c3O
 #EXTINF:-1 tvg-id="pink" tvg-name="pink" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Pink BH
 https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ddfTQTUJrgryiyiu09OEYL9dubIGhzJl-DYTKauiF2FAh53U-Huh9aONOzWBmOZbkGDpP6-DMftUMXo4wuE43gamLPLwBClCmKvmeINMl4IdQaPT9QpweKS-L6G1_G9uw5aXI8dxqz6gZIb0ytoC3EjjIx9T1W0aN-Zh7h0srDg/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="rts1" tvg-name="rts1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", RTRS
-https://live3.cdn-canlitv.com/rtrs.m3u8
+#EXTINF:-1 tvg-id="bht1" tvg-name="bht1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", BHT 1
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/R1A7VZwb3wzLL8T9pNAwlj8j7T4MW_8Aa5_7f0JAIbV--v8J_Fw5Q_XLebmxUtrwjxJvL8TaAnZU95r6GMQfGpofD0qwY2bJT70O4zIQ_qKOPIG7A4YNWf5l1Gu3hprnkOdz1mE4-r3dvCTfLqbIzevaPno-BzwalpWXjjmQw0s/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="n1Srbija" tvg-name="n1Srbija" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", N1 BiH
-https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream/fragment/ts/live/?i=Ua8Hmvf0PMWLkSmE1kLl_g&a=Ppyn9Li-MzsOSER2T5kuMgUrrcq7IVYzgVn6UwMM1OJx5dW1YhTyPDBpooZv196fFiAupGqfi4gEiPuu-OKAXzo-EOPLNmKls1ZjlMukaNDWVQ5LRAnqjXxCLDrudndNOOvcAkHl9fVXvdCYYcgbAqPz5W17HKobp_-aaolZaC2L1gyvykIKh04dGmfkqF7mLuEv40qCowJ5H3kfKlijX3YqwEn8C0iqOPVPUMiCZ5G2NAn8Iim97Y4sHXpWRlVz&session=311022f8-7ee8-41af-86b8-5280ee6a05f6&offset=244820&pointeroffset=20&player=m3u8
+#EXTINF:-1 tvg-id="rts1" tvg-name="rts1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", RTS 1
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/FBd14XXFLDk2Cph5oDOMa3WlibhK6Js4JRMIZav3ok_vtNEcpSvPpFMpU8rozH1D5tfYPRetZ0KMcwvkPOVISwxp7zefsJCSz6KKXkzsmIo-IqTx9eLqnUp7jNZPXtl147Zr0DCARHbfvY3gO1aUB5AOXx6dzBpiyEMf1PGY8mw/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="hrt1" tvg-name="hrt1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", HRT 1
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/co_KFUW8kpM9Xb3Hq3EjhqRpe9sep1Y3XuSJx-orHQpYf1eScXLcN83EM7CaymzsWqHg2hlMMDSn7ZAV2he8SgaWtpjTA0xWnGKD3GBkVy9IT_7PDj8YzJ3RCqahKO1ojt3FqNKIL1sTYPaJYYyrxXxx4DmO5HRIk0rzoGIrvXU/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="hrt2" tvg-name="hrt2" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", HRT 2
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/byWnkrnQ_A_WV8Cg3mxaJOfou4DuGgN5eKT54wo-LMMrNUtiJCrOZZSUmNJtH5J_WFwBJqCwNsQM3BuxPHRfnqLy7xe7ZUn3pp_lT6ss1XC2O2s2MVIhFnYh-vASKVicZET7BCzzqC3rSmV5Q7EQ4r1peiY1oRLllBzYzwNfgSE/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="obn" tvg-name="obn" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", OBN
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/otl9ohAroagVoz_kBIxUXLC9yQVSDV5_zY665Dw_5TamypTgkhlGwZAnZhFA_BY0elOfGJrJD7ZIZGH7u9QUu2BluumV0920SHtmO7EO-bY7tJMho21O1NKAOHy_M5uRACXRnAbH3TWXU3sTlqdT8ApBEnIakicxS4DqRAk9SZg/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="novabh" tvg-name="novabh" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Nova BH
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/jJrtkKAzFCuOZi4ha3qDCOX3Tb7vTb0t2nHoGYtpKkiFeCJaHGTe12nxLdUftyzJpK8mnMIU3fbY953o3lRYITyhT4EU3b02dKgfyat_cZEiGIqMb9xXkCvvaIuvJKqzS-4v8ulBPDYcBQzwyTnFSkygAqgYnUtYPj4hQ1ohgFc/hls/index.m3u8
+
+
+
