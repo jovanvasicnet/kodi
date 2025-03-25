@@ -14,5 +14,5 @@ https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/ddfTQTUJrgryiyiu09
 #EXTINF:-1 tvg-id="rts1" tvg-name="rts1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", RTRS
 https://live3.cdn-canlitv.com/rtrs.m3u8
 
-#EXTINF:-1 tvg-id="rts1" tvg-name="rts1" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", Prva
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+#EXTINF:-1 tvg-id="n1Srbija" tvg-name="n1Srbija" tvg-logo="https://example.com/rts-logo.png" group-title="Serbia", N1 Srbija
+https://list.iptvcat.com/my_list/s/ba1744278793e14ef7e93f84ac9234d5.m3u8
