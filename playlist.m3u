@@ -12,7 +12,16 @@ https://edge8.pink.rs/pinktv/index.m3u8
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
 
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", RTS 1
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/1/720p.m3u8
+http://live.baltazar.pro:80/danijelbojanicvib/GPeBkOhrg2/2
+
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", RTS 1
+http://mediaprime.pro:80/MarinaTadic781@berlin.net/utxJNWTRc3/125
+
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", RTS 1
+http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/124
+
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", RTS 1
+http://g-med.xyz:25461/live/Ivica@Ivancic/aWhYMeBSLZ/80.ts
 
 #EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_of_BHRT_%281998-%29.svg/1200px-Logo_of_BHRT_%281998-%29.svg.png" group-title="Serbia", RTRS
 http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
