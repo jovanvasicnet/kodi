@@ -1,7 +1,157 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="rts1" tvg-name="RTS1 ʰᵈ" tvg-logo="https://nstatic.net/img/tv/channels/m/rts-1.png" group-title="SRBIJA" ,RTS1 ʰᵈ
-http://mediaprime.pro:80/vehid@jasminafb.ba/CFaY23wA6R/124
-
-#EXTINF:-1 tvg-id="rtrs" tvg-name="RTRS ʰᵈ" tvg-logo="https://tvprofil.com/cdn/100x64/4/img/kanali-logo/rtrs-logo.png" group-title="BOSNA I HERCEGOVINA" ,RTRS ʰᵈ
-http://mediaprime.pro:80/MarinaTadic781@berlin.net/utxJNWTRc3/72
-
+#EXTM3U-X-Panel
+#EXTINF:-1,::::: BOSNA I HERCEGOVINA :::::
+http://bmedia.vip:80/ensar123/rK5gskzjzs/49239
+#EXTINF:-1,BHT 1
+http://bmedia.vip:80/ensar123/rK5gskzjzs/3
+#EXTINF:-1,BHT 1*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/4
+#EXTINF:-1,FEDERALNA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/5
+#EXTINF:-1,FEDERALNA*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/6
+#EXTINF:-1,TV SARAJEVO
+http://bmedia.vip:80/ensar123/rK5gskzjzs/7
+#EXTINF:-1,TV SARAJEVO*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/8
+#EXTINF:-1,FACE TV 
+http://bmedia.vip:80/ensar123/rK5gskzjzs/9
+#EXTINF:-1,FACE TV*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/10
+#EXTINF:-1,HAYAT TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/11
+#EXTINF:-1,HAYAT TV*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/12
+#EXTINF:-1,HAYAT 2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/13
+#EXTINF:-1,HAYAT 2*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/114182
+#EXTINF:-1,HAYAT STIL I ZIVOT
+http://bmedia.vip:80/ensar123/rK5gskzjzs/358715
+#EXTINF:-1,NOVA BH
+http://bmedia.vip:80/ensar123/rK5gskzjzs/14
+#EXTINF:-1,NOVA BH*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/15
+#EXTINF:-1,OBN
+http://bmedia.vip:80/ensar123/rK5gskzjzs/16
+#EXTINF:-1,OBN*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/17
+#EXTINF:-1,AL  JAZEERA BALK.
+http://bmedia.vip:80/ensar123/rK5gskzjzs/18
+#EXTINF:-1,AL  JAZEERA BALK.*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/19
+#EXTINF:-1,N1
+http://bmedia.vip:80/ensar123/rK5gskzjzs/20
+#EXTINF:-1,N1*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/21
+#EXTINF:-1,O KANAL
+http://bmedia.vip:80/ensar123/rK5gskzjzs/22
+#EXTINF:-1,O KANAL*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/23
+#EXTINF:-1,MY TV 
+http://bmedia.vip:80/ensar123/rK5gskzjzs/180042
+#EXTINF:-1,BN
+http://bmedia.vip:80/ensar123/rK5gskzjzs/24
+#EXTINF:-1,BN 2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/126234
+#EXTINF:-1,PINK BH
+http://bmedia.vip:80/ensar123/rK5gskzjzs/26
+#EXTINF:-1,RTRS
+http://bmedia.vip:80/ensar123/rK5gskzjzs/65
+#EXTINF:-1,RTRS PLUS
+http://bmedia.vip:80/ensar123/rK5gskzjzs/66
+#EXTINF:-1,PRO TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/358716
+#EXTINF:-1,TK TUZLA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/27
+#EXTINF:-1,TV VOGOSCA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/28
+#EXTINF:-1,ALFA TV 
+http://bmedia.vip:80/ensar123/rK5gskzjzs/29
+#EXTINF:-1,HEMA TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/30
+#EXTINF:-1,RTV SLON
+http://bmedia.vip:80/ensar123/rK5gskzjzs/31
+#EXTINF:-1,RTV ZENICA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/32
+#EXTINF:-1,RTV VISOKO
+http://bmedia.vip:80/ensar123/rK5gskzjzs/33
+#EXTINF:-1,HIT BRCKO TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/34
+#EXTINF:-1,TV KAKANJ
+http://bmedia.vip:80/ensar123/rK5gskzjzs/35
+#EXTINF:-1,RTV USK
+http://bmedia.vip:80/ensar123/rK5gskzjzs/36
+#EXTINF:-1,RTV CAZIN
+http://bmedia.vip:80/ensar123/rK5gskzjzs/37
+#EXTINF:-1,RTV SANA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/38
+#EXTINF:-1,RTV 7
+http://bmedia.vip:80/ensar123/rK5gskzjzs/41
+#EXTINF:-1,SUPER TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/42
+#EXTINF:-1,SEHARA ONLINE
+http://bmedia.vip:80/ensar123/rK5gskzjzs/43
+#EXTINF:-1,UNA TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/23313
+#EXTINF:-1,PRVA HERCEGOVACKA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/44
+#EXTINF:-1,TATABRADA TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/45
+#EXTINF:-1,POSAVINA TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/47
+#EXTINF:-1,ELTA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/18265
+#EXTINF:-1,ELTA 2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/48
+#EXTINF:-1,GLAS DRINE
+http://bmedia.vip:80/ensar123/rK5gskzjzs/49
+#EXTINF:-1,OTV VALENTINO
+http://bmedia.vip:80/ensar123/rK5gskzjzs/50
+#EXTINF:-1,RTV PODRINJE
+http://bmedia.vip:80/ensar123/rK5gskzjzs/51
+#EXTINF:-1,RTV BUGOJNO
+http://bmedia.vip:80/ensar123/rK5gskzjzs/54
+#EXTINF:-1,RTV ZIVINICE
+http://bmedia.vip:80/ensar123/rK5gskzjzs/57
+#EXTINF:-1,RTV LUKAVAC
+http://bmedia.vip:80/ensar123/rK5gskzjzs/58
+#EXTINF:-1,RTV JABLANICA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/59
+#EXTINF:-1,MAGLAJ
+http://bmedia.vip:80/ensar123/rK5gskzjzs/71059
+#EXTINF:-1,RTV KRAJINA
+http://bmedia.vip:80/ensar123/rK5gskzjzs/39768
+#EXTINF:-1,RTV MIR
+http://bmedia.vip:80/ensar123/rK5gskzjzs/171
+#EXTINF:-1,CITY TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/62
+#EXTINF:-1,SMART TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/56
+#EXTINF:-1,ATV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/63
+#EXTINF:-1,K3
+http://bmedia.vip:80/ensar123/rK5gskzjzs/64
+#EXTINF:-1,RTV HB
+http://bmedia.vip:80/ensar123/rK5gskzjzs/67
+#EXTINF:-1,BIR TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/76027
+#EXTINF:-1,TELEVIZIJA 5
+http://bmedia.vip:80/ensar123/rK5gskzjzs/76024
+#EXTINF:-1,MTV IGMAN
+http://bmedia.vip:80/ensar123/rK5gskzjzs/76025
+#EXTINF:-1,MEDINA TV 
+http://bmedia.vip:80/ensar123/rK5gskzjzs/1523
+#EXTINF:-1,MEKKA TV
+http://bmedia.vip:80/ensar123/rK5gskzjzs/76026
+#EXTINF:-1,::::: HRVATSKA :::::
+http://bmedia.vip:80/ensar123/rK5gskzjzs/49240
+#EXTINF:-1,HRT 1
+http://bmedia.vip:80/ensar123/rK5gskzjzs/75921
+#EXTINF:-1,HRT 1*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/75922
+#EXTINF:-1,HRT 2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/75923
+#EXTINF:-1,HRT 2*L2
+http://bmedia.vip:80/ensar123/rK5gskzjzs/75924
+#EXTINF:-1,HRT 3
+http://bmedia.vip:80/ensar123/rK5gskzjzs/75925
