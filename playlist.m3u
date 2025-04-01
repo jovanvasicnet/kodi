@@ -1,59 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="nov@ plus",CNN
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/6517
-#EXTINF:-1 tvg-id="nova-sport-rs" tvg-name="nov@ sport" tvg-logo="" group-title="nov@ plus",nov@ sport
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2434
-#EXTINF:-1 tvg-id="nova" tvg-name="nov@ TV" tvg-logo="" group-title="nov@ plus",nov@ TV
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2436
-#EXTINF:-1 tvg-id="nova-s" tvg-name="nov@ S ᴴᴰ" tvg-logo="" group-title="nov@ plus",nov@ S ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2437
-#EXTINF:-1 tvg-id="nova-m" tvg-name="nov@ M ᴴᴰ" tvg-logo="" group-title="nov@ plus",nov@ M ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2438
-#EXTINF:-1 tvg-id="" tvg-name="nov@ kids 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/217d53013506c21f9bbf77b6bf94b27f.png" group-title="nov@ plus",nov@ kids 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2927
-#EXTINF:-1 tvg-id="" tvg-name="nov@ documentary 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/d4a62fb53da3746d4c33637b5321275f.png" group-title="nov@ plus",nov@ documentary 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2942
-#EXTINF:-1 tvg-id="" tvg-name="nov@ documentary 2 FHD" tvg-logo="http://tv.fast-iptv.info:12974/images/d4a62fb53da3746d4c33637b5321275f.png" group-title="nov@ plus",nov@ documentary 2 FHD
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2943
-#EXTINF:-1 tvg-id="" tvg-name="nov@ kids 2 FHD" tvg-logo="http://tv.fast-iptv.info:12974/images/217d53013506c21f9bbf77b6bf94b27f.png" group-title="nov@ plus",nov@ kids 2 FHD
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2944
-#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="" group-title="nov@ plus",CBS
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/6518
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/ba049930e52dbd3b3a537f023b074c1d.png" group-title="nov@ plus",nov@ cinema 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2954
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema 2 FHD" tvg-logo="http://tv.fast-iptv.info:12974/images/ba049930e52dbd3b3a537f023b074c1d.png" group-title="nov@ plus",nov@ cinema 2 FHD
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/2955
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema 2K" tvg-logo="http://tv.fast-iptv.info:12974/images/2e512ea1fb1b85ea9a44973db0730136.png" group-title="nov@ plus",nov@ cinema 2K
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/3481
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema FHD 2K" tvg-logo="http://tv.fast-iptv.info:12974/images/2e512ea1fb1b85ea9a44973db0730136.png" group-title="nov@ plus",nov@ cinema FHD 2K
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4023
-#EXTINF:-1 tvg-id="13749" tvg-name="nov@ kids 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/217d53013506c21f9bbf77b6bf94b27f.png" group-title="nov@ plus",nov@ kids 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4024
-#EXTINF:-1 tvg-id="" tvg-name="nov@ documentary 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/d4a62fb53da3746d4c33637b5321275f.png" group-title="nov@ plus",nov@ documentary 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4025
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema 2 ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/ba049930e52dbd3b3a537f023b074c1d.png" group-title="nov@ plus",nov@ cinema 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4027
-#EXTINF:-1 tvg-id="" tvg-name="nov@ kids ᴴᴰ" tvg-logo="" group-title="nov@ plus",nov@ kids ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4419
-#EXTINF:-1 tvg-id="" tvg-name="nov@ cinema ᴴᴰ" tvg-logo="" group-title="nov@ plus",nov@ cinema ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4420
-#EXTINF:-1 tvg-id="" tvg-name="nov@ family ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/138bb0696595b338afbab333c555292a.png" group-title="nov@ plus",nov@ family ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4752
-#EXTINF:-1 tvg-id="" tvg-name="nov@ documentary ᴴᴰ" tvg-logo="http://tv.fast-iptv.info:12974/images/226f85829b8055b1c27aa5a13e95b35f.png" group-title="nov@ plus",nov@ documentary ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/4753
-#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1 ᴴᴰ" tvg-logo="" group-title="Croatia",HRT 1 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/325
-#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2 ᴴᴰ" tvg-logo="" group-title="Croatia",HRT 2 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/539
-#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3 ᴴᴰ" tvg-logo="" group-title="Croatia",HRT 3 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/326
-#EXTINF:-1 tvg-id="HRT4" tvg-name="HRT 4 ᴴᴰ" tvg-logo="" group-title="Croatia",HRT 4 ᴴᴰ
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/327
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="" group-title="Croatia",HTV1
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/1
-#EXTINF:-1 tvg-id="htv2" tvg-name="HTV2" tvg-logo="" group-title="Croatia",HTV2
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/22
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="" group-title="Croatia",HTV3
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/23
-#EXTINF:-1 tvg-id="htv4" tvg-name="HTV4" tvg-logo="" group-title="Croatia",HTV4
-http://tv.fast-iptv.info:12974/LjubicaJelenkovic/PVLNRXyCvy/24
+#EXTINF:-1,CNN
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6517
+#EXTINF:-1,nov@ sport
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2434
+#EXTINF:-1,nov@ TV
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2436
+#EXTINF:-1,nov@ S ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2437
+#EXTINF:-1,nov@ M ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2438
+#EXTINF:-1,nov@ kids 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2927
+#EXTINF:-1,nov@ documentary 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2942
+#EXTINF:-1,nov@ documentary 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2943
+#EXTINF:-1,nov@ kids 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2944
+#EXTINF:-1,CBS
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6518
+#EXTINF:-1,nov@ cinema 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2954
+#EXTINF:-1,nov@ cinema 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2955
+#EXTINF:-1,nov@ cinema 2K
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/3481
+#EXTINF:-1,nov@ cinema FHD 2K
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4023
+#EXTINF:-1,nov@ kids 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4024
+#EXTINF:-1,nov@ documentary 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4025
+#EXTINF:-1,nov@ cinema 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4027
+#EXTINF:-1,nov@ kids ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4419
+#EXTINF:-1,nov@ cinema ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4420
+#EXTINF:-1,nov@ family ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4752
+#EXTINF:-1,nov@ documentary ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4753
+#EXTINF:-1,HRT 1 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/325
+#EXTINF:-1,HRT 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/539
+#EXTINF:-1,HRT 3 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/326
+#EXTINF:-1,HRT 4 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/327
+#EXTINF:-1,HTV1
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/1
+#EXTINF:-1,HTV2
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/22
+#EXTINF:-1,HTV3
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/23
+#EXTINF:-1,HTV4
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/24
+#EXTINF:-1,HTV5
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/130
+#EXTINF:-1,HRT INT.
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/540
+#EXTINF:-1,Nova TV ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/210
+#EXTINF:-1,NOVA TV
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/19
+#EXTINF:-1,Nova World ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6353
+#EXTINF:-1,Nova Family ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6354
+#EXTINF:-1,Nova Plus ᶠʰᵈ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6408
+#EXTINF:-1,DOMA ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/328
+#EXTINF:-1,Doma TV
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/20
+#EXTINF:-1,RTL ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6123
+#EXTINF:-1,RTL
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6122
+#EXTINF:-1,RTL 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6080
