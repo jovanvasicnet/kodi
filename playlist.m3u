@@ -1,9 +1,45 @@
-#EXTM3U-A.S-Panel
-#EXTINF:-1 tvg-id="" tvg-name="=======  HRVATSKA  =======" tvg-logo="http://iptvxx.ddns.net:25461/images/b786a3bc5d2888a6d285e7412ef48169.png" group-title="HRVATSKA",=======  HRVATSKA  =======
-http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/9471
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV 1 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/24ad77be02a839e0368083ab0ea7447e.png" group-title="HRVATSKA",HTV 1 HR ᴴᴰ
-http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1546
-#EXTINF:-1 tvg-id="htv2" tvg-name="HTV 2 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/b0dba5713c9ffd881985cf6391a57c6c.png" group-title="HRVATSKA",HTV 2 HR ᴴᴰ
-http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1548
-#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/aa29d9e66f657d404f44b8b2096c7457.png" group-title="HRVATSKA",HTV 3 HR ᴴᴰ
-http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1550
+#EXTM3U
+#EXTINF:-1,CNN
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6517
+#EXTINF:-1,nov@ sport
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2434
+#EXTINF:-1,nov@ TV
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2436
+#EXTINF:-1,nov@ S ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2437
+#EXTINF:-1,nov@ M ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2438
+#EXTINF:-1,nov@ kids 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2927
+#EXTINF:-1,nov@ documentary 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2942
+#EXTINF:-1,nov@ documentary 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2943
+#EXTINF:-1,nov@ kids 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2944
+#EXTINF:-1,CBS
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/6518
+#EXTINF:-1,nov@ cinema 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2954
+#EXTINF:-1,nov@ cinema 2 FHD
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/2955
+#EXTINF:-1,nov@ cinema 2K
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/3481
+#EXTINF:-1,nov@ cinema FHD 2K
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4023
+#EXTINF:-1,nov@ kids 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4024
+#EXTINF:-1,nov@ documentary 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4025
+#EXTINF:-1,nov@ cinema 2 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4027
+#EXTINF:-1,nov@ kids ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4419
+#EXTINF:-1,nov@ cinema ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4420
+#EXTINF:-1,nov@ family ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4752
+#EXTINF:-1,nov@ documentary ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/4753
+#EXTINF:-1,HRT 1 ᴴᴰ
+http://tv.fast-iptv.info:12974/ZdravkaKrakan/oSidKfYKJk/325
