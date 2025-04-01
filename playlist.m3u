@@ -1,7 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT 1 HD" tvg-logo="http://live.nettv.pro/icons/BHT1.png" group-title="BOSNA",BHT 1 HD
-http://live.baltazar.pro:80/danijelbojanicvib/GPeBkOhrg2/19
-#EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/BHT1.png" group-title="BOSNA",BHT 1 BACKUP
-http://live.baltazar.pro:80/danijelbojanicvib/GPeBkOhrg2/4114
-#EXTINF:-1 tvg-id="FTV" tvg-name="FEDERALNA TV" tvg-logo="http://live.nettv.pro/icons/FEDERALNA.png" group-title="BOSNA",FEDERALNA TV
-http://live.baltazar.pro:80/danijelbojanicvib/GPeBkOhrg2/20
+#EXTM3U-A.S-Panel
+#EXTINF:-1 tvg-id="" tvg-name="=======  HRVATSKA  =======" tvg-logo="http://iptvxx.ddns.net:25461/images/b786a3bc5d2888a6d285e7412ef48169.png" group-title="HRVATSKA",=======  HRVATSKA  =======
+http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/9471
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV 1 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/24ad77be02a839e0368083ab0ea7447e.png" group-title="HRVATSKA",HTV 1 HR ᴴᴰ
+http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1546
+#EXTINF:-1 tvg-id="htv2" tvg-name="HTV 2 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/b0dba5713c9ffd881985cf6391a57c6c.png" group-title="HRVATSKA",HTV 2 HR ᴴᴰ
+http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1548
+#EXTINF:-1 tvg-id="htv3" tvg-name="HTV 3 HR ᴴᴰ" tvg-logo="http://iptvxx.ddns.net:8080/images/aa29d9e66f657d404f44b8b2096c7457.png" group-title="HRVATSKA",HTV 3 HR ᴴᴰ
+http://iptvxx.ddns.net:8080/cukinovo@/rdFmVfgcrgvzubddcvhh/1550
