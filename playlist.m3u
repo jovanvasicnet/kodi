@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CR: HRT 1 4K
 http://skyglass.vip:8080/74968900/426890899/442928
+
+#EXTINF:-1,HRT 1 HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/2.ts
