@@ -1,2 +1,453 @@
-#EXTINF:-1 tvg-id="HRT 1" tvg-name="HR 1 BACKUP" tvg-logo="http://live.nettv.pro/icons/HRT1.png" group-title="HRVATSKA",HR 1 BACKUP
-http://live.baltazar.pro:80/482vib/vibb245/1140
+#EXTM3U
+
+#EXTINF:-1,101_BNT 1 HD
+
+http://213.91.178.133:8000/play/a046
+
+#EXTINF:-1,102_bTV HD
+
+http://213.91.178.133:8000/play/a03w
+
+#EXTINF:-1,103_Diema Family
+
+http://213.91.178.133:8000/play/a047
+
+#EXTINF:-1,104_BNT 2 HD
+
+http://213.91.178.133:8000/play/a049
+
+#EXTINF:-1,105_BNT 3 HD
+
+http://213.91.178.133:8000/play/a03x
+
+#EXTINF:-1,111_BNT 4 HD
+
+http://213.91.178.133:8000/play/a04u
+
+#EXTINF:-1,112_bTV Action HD
+
+http://213.91.178.133:8000/play/a04n
+
+#EXTINF:-1,113_bTV Cinema
+
+http://213.91.178.133:8000/play/a04i
+
+#EXTINF:-1,114_bTV Comedy HD
+
+http://213.91.178.133:8000/play/a04k
+
+#EXTINF:-1,115_bTV Lady
+
+http://213.91.178.133:8000/play/a05i
+
+#EXTINF:-1,121_NovaNews
+
+http://213.91.178.133:8000/play/a063
+
+#EXTINF:-1,122_The Voice HD
+
+http://213.91.178.133:8000/play/a043
+
+#EXTINF:-1,123_Magic
+
+http://213.91.178.133:8000/play/a05p
+
+#EXTINF:-1,124_Evrokom HD
+
+http://213.91.178.133:8000/play/a053
+
+#EXTINF:-1,125_Bulgaria on Air
+
+http://213.91.178.133:8000/play/a05x
+
+#EXTINF:-1,126_Balkanika
+
+http://213.91.178.133:8000/play/a05h
+
+#EXTINF:-1,127_TV5_Monde
+
+http://213.91.178.133:8000/play/a06d
+
+#EXTINF:-1,131_Diema
+
+http://213.91.178.133:8000/play/a045
+
+#EXTINF:-1,132_KinoNova
+
+http://213.91.178.133:8000/play/a041
+
+#EXTINF:-1,133_TV Rus
+
+http://213.91.178.133:8000/play/a082
+
+#EXTINF:-1,134_RTR
+
+http://213.91.178.133:8000/play/a079
+
+#EXTINF:-1,135_8TV Ru
+
+http://213.91.178.133:8000/play/a077
+
+#EXTINF:-1,136_TNT
+
+http://213.91.178.133:8000/play/a083
+
+#EXTINF:-1,137_Ring HD
+
+http://213.91.178.133:8000/play/a06e
+
+#EXTINF:-1,138_NOVA HD
+
+http://213.91.178.133:8000/play/a03l
+
+#EXTINF:-1,139_Euronews Bulgaria
+
+http://213.91.178.133:8000/play/a05e
+
+#EXTINF:-1,140_Bulgaria 24 HD
+
+http://213.91.178.133:8000/play/a06b
+
+#EXTINF:-1,141_Animal Planet
+
+http://213.91.178.133:8000/play/a05r
+
+#EXTINF:-1,142_Viasat Explore
+
+http://213.91.178.133:8000/play/a058
+
+#EXTINF:-1,143_Viasat History
+
+http://213.91.178.133:8000/play/a03r
+
+#EXTINF:-1,144_Viasat Nature
+
+http://213.91.178.133:8000/play/a03s
+
+#EXTINF:-1,145_Travel Channel
+
+http://213.91.178.133:8000/play/a04x
+
+#EXTINF:-1,151_BBC World
+
+http://213.91.178.133:8000/play/a08j
+
+#EXTINF:-1,152_TV5 Europe
+
+http://213.91.178.133:8000/play/a08i
+
+#EXTINF:-1,153_National Geographic
+
+http://213.91.178.133:8000/play/a048
+
+#EXTINF:-1,154_NG Wild HD
+
+http://213.91.178.133:8000/play/a06p
+
+#EXTINF:-1,155_Discovery Channel
+
+http://213.91.178.133:8000/play/a044
+
+#EXTINF:-1,156_Ohota i Ribalka
+
+http://213.91.178.133:8000/play/a07r
+
+#EXTINF:-1,157_HGTV
+
+http://213.91.178.133:8000/play/a04t
+
+#EXTINF:-1,161_DaVinci Learning
+
+http://213.91.178.133:8000/play/a03q
+
+#EXTINF:-1,162_Planeta HD
+
+http://213.91.178.133:8000/play/a03t
+
+#EXTINF:-1,163_Planeta Folk
+
+http://213.91.178.133:8000/play/a084
+
+#EXTINF:-1,164_FEN HD
+
+http://213.91.178.133:8000/play/a05f
+
+#EXTINF:-1,165_Fen Folk HD
+
+http://213.91.178.133:8000/play/a07d
+
+#EXTINF:-1,166_Folklor TV
+
+http://213.91.178.133:8000/play/a07e
+
+#EXTINF:-1,167_Crime & Investigation
+
+http://213.91.178.133:8000/play/a09f
+
+#EXTINF:-1,168_test
+
+http://213.91.178.133:8000/play/a09e
+
+#EXTINF:-1,169_test
+
+http://213.91.178.133:8000/play/a065
+
+#EXTINF:-1,171_3 Angels
+
+http://213.91.178.133:8000/play/a07t
+
+#EXTINF:-1,172_MuzSoyuz
+
+http://213.91.178.133:8000/play/a0al
+
+#EXTINF:-1,173_360 Tunebox
+
+http://213.91.178.133:8000/play/a07a
+
+#EXTINF:-1,174_MTV
+
+http://213.91.178.133:8000/play/a09c
+
+#EXTINF:-1,175_Club MTV
+
+http://213.91.178.133:8000/play/a0an
+
+#EXTINF:-1,176_4Fun.TV
+
+http://213.91.178.133:8000/play/a07h
+
+#EXTINF:-1,177_4Fun Dance
+
+http://213.91.178.133:8000/play/a07j
+
+#EXTINF:-1,178_4Fun Kids
+
+http://213.91.178.133:8000/play/a07i
+
+#EXTINF:-1,179_City TV
+
+http://213.91.178.133:8000/play/a06c
+
+#EXTINF:-1,180_Fashion TV HD
+
+http://213.91.178.133:8000/play/a080
+
+#EXTINF:-1,181_Code Fashion
+
+http://213.91.178.133:8000/play/a03n
+
+#EXTINF:-1,201_Diema Sport HD
+
+http://213.91.178.133:8000/play/a06q
+
+#EXTINF:-1,202_Diema Sport 2 HD
+
+http://213.91.178.133:8000/play/a08e
+
+#EXTINF:-1,203_Diema Sport 3 HD
+
+http://213.91.178.133:8000/play/a08f
+
+#EXTINF:-1,204_Nova Sport
+
+http://213.91.178.133:8000/play/a04a
+
+#EXTINF:-1,211_MAX Sport 1 HD
+
+http://213.91.178.133:8000/play/a0as
+
+#EXTINF:-1,212_MAX Sport 2 HD
+
+http://213.91.178.133:8000/play/a0at
+
+#EXTINF:-1,213_MAX Sport 3 HD
+
+http://213.91.178.133:8000/play/a0ar
+
+#EXTINF:-1,214_Max Sport 4
+
+http://213.91.178.133:8000/play/a05n
+
+#EXTINF:-1,221_Eurosport HD
+
+http://213.91.178.133:8000/play/a05y
+
+#EXTINF:-1,222_Eurosport 2 HD
+
+http://213.91.178.133:8000/play/a04b
+
+#EXTINF:-1,223_Motorvision+
+
+http://213.91.178.133:8000/play/a05g
+
+#EXTINF:-1,224_TV Tourism
+
+http://213.91.178.133:8000/play/a05q
+
+#EXTINF:-1,225_The World
+
+http://213.91.178.133:8000/play/a03z
+
+#EXTINF:-1,226_24 Kitchen
+
+http://213.91.178.133:8000/play/a05o
+
+#EXTINF:-1,227_Docubox
+
+http://213.91.178.133:8000/play/a04z
+
+#EXTINF:-1,231_AXN
+
+http://213.91.178.133:8000/play/a04d
+
+#EXTINF:-1,232_Star Channel
+
+http://213.91.178.133:8000/play/a05c
+
+#EXTINF:-1,233_Star Life
+
+http://213.91.178.133:8000/play/a04f
+
+#EXTINF:-1,234_Star Crime
+
+http://213.91.178.133:8000/play/a04h
+
+#EXTINF:-1,235_FILMBOX
+
+http://213.91.178.133:8000/play/a06i
+
+#EXTINF:-1,236_FilmBox Extra HD
+
+http://213.91.178.133:8000/play/a04r
+
+#EXTINF:-1,237_Filmbox Stars
+
+http://213.91.178.133:8000/play/a066
+
+#EXTINF:-1,238_Epic Drama
+
+http://213.91.178.133:8000/play/a0bv
+
+#EXTINF:-1,241_Cinemania HD
+
+http://213.91.178.133:8000/play/a05a
+
+#EXTINF:-1,242_Nickelodeon
+
+http://213.91.178.133:8000/play/a056
+
+#EXTINF:-1,243_Nick Jr
+
+http://213.91.178.133:8000/play/a05k
+
+#EXTINF:-1,244_Nostalgia HD
+
+http://213.91.178.133:8000/play/a04s
+
+#EXTINF:-1,245_Disney Channel
+
+http://213.91.178.133:8000/play/a059
+
+#EXTINF:-1,246_STS Kids
+
+http://213.91.178.133:8000/play/a07g
+
+#EXTINF:-1,247_STS_Int
+
+http://213.91.178.133:8000/play/a042
+
+#EXTINF:-1,248_Cartoon Network
+
+http://213.91.178.133:8000/play/a08g
+
+#EXTINF:-1,251_Peretz
+
+http://213.91.178.133:8000/play/a0ay
+
+#EXTINF:-1,252_Moskva 24
+
+http://213.91.178.133:8000/play/a0b1
+
+#EXTINF:-1,253_Moskva Doverie
+
+http://213.91.178.133:8000/play/a0b2
+
+#EXTINF:-1,254_5 Kanal
+
+http://213.91.178.133:8000/play/a0av
+
+#EXTINF:-1,255_Domashniy_Int
+
+http://213.91.178.133:8000/play/a0b5
+
+#EXTINF:-1,256_REN TV
+
+http://213.91.178.133:8000/play/a0ax
+
+#EXTINF:-1,257_Kaleidoskop TV
+
+http://213.91.178.133:8000/play/a0aw
+
+#EXTINF:-1,258_5 Int
+
+http://213.91.178.133:8000/play/a0b4
+
+#EXTINF:-1,259_STARS.TV
+
+http://213.91.178.133:8000/play/a0ao
+
+#EXTINF:-1,260_CGTN
+
+http://213.91.178.133:8000/play/a0b7
+
+#EXTINF:-1,261_CNBC
+
+http://213.91.178.133:8000/play/a05u
+
+#EXTINF:-1,262_Rai 1 HD
+
+http://213.91.178.133:8000/play/a0bb
+
+#EXTINF:-1,263_Rai 2 HD
+
+http://213.91.178.133:8000/play/a0bc
+
+#EXTINF:-1,264_Rai 3 HD
+
+http://213.91.178.133:8000/play/a0bd
+
+#EXTINF:-1,271_TV 1
+
+http://213.91.178.133:8000/play/a03y
+
+#EXTINF:-1,272_Bloomberg BG
+
+http://213.91.178.133:8000/play/a04m
+
+#EXTINF:-1,273_France 24
+
+http://213.91.178.133:8000/play/a03p
+
+#EXTINF:-1,274_STARS.TV
+
+http://213.91.178.133:8000/play/a0bi
+
+#EXTINF:-1,275_DW English HD
+
+http://213.91.178.133:8000/play/a0be
+
+#EXTINF:-1,276_ARIRANG HD
+
+http://213.91.178.133:8000/play/a0bh
+
+#EXTINF:-1,300_Zivi
+
+http://213.91.178.133:8000/play/a0bg
+
+#EXTINF:-1,BBC Arabic HD
+
+http://213.91.178.133:8000/play/a0bf
+
+#EXTINF:-1,bTV_update
+
+http://213.91.178.133:8000/play/a0af
